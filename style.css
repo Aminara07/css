@@ -1,0 +1,161 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding:0;
+    
+}
+body{
+  background-color:#EBE3DE;
+    
+}
+
+.Container{
+    width: 80%;
+    margin: 0% auto;
+}
+header{
+    background-color: black
+}
+header ::after{
+    content:'';
+    display: table;
+    clear: both;
+}
+.logo{
+    float: left;
+    
+}
+nav{
+    float: right;
+}
+nav ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+nav li{
+    display: inline-block;
+    margin-left: 170px;
+    padding-top: 25px;
+}
+.nav_bar li a{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-decoration: none;
+    color: aliceblue;
+    
+}
+.Intro{
+    margin-left: 95px;
+    margin-top: 0px;
+   
+}
+
+.profile{
+     margin-top: 50px;
+     margin-left: 460px;
+}
+.paragraph{
+    margin-left: 480px;
+ }
+ .Socials{
+    margin-left: 480px;
+ }
+.About{
+   font-size: 50px;
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   margin-left: 600px;
+}
+.work{
+    font-size: 50px;
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   margin-left: 600px;
+}
+.Modeling{
+    margin-left: 300px;
+ }
+.lamp {
+   margin-left: 270px;
+}
+.Art{
+    margin-left: 300px;
+ }
+ .Cow{
+    margin-left: 270px;
+ }
+ .Website{
+    margin-left: 300px;
+ }
+ .Butterfly{
+    margin-left: 300px;
+ }
+ .Resume{
+    margin-left: 580px;
+ }
+ .Amina{
+    margin-left: 200px;
+ }
+ .adress{
+    margin-left: 200px;
+ }
+ .mail{
+    margin-left: 200px;
+ }
+ .number{
+    margin-left: 200px;
+ }
+.MR{
+    background-color: #A05331;
+ }
+ .formation{
+    margin-left: 600px;
+ }
+ .school  {
+    margin-left: 200px;
+ }
+ .college{
+    margin-left: 200px;
+ }
+ .language{
+    margin-left: 600px;
+ }
+ .french{
+    margin-left: 200px;
+ }
+ .english{
+    margin-left: 200px;
+ }
+ .wolof{
+    margin-left: 200px;
+ }
+ .spanish{
+    margin-left: 200px;
+ }
+ .diplomas{
+    margin-left: 600px;
+ }
+ .brevet{
+    margin-left: 200px;
+ }
+ .gsl{
+    margin-left: 200px;
+ }
+ .hobbies{
+    margin-left: 600px;
+ }
+ .my_hobbies{
+    margin-left: 200px;
+ }
+ .qualities{
+    margin-left: 600px;
+ }
+ .my_qualities{
+    margin-left: 200px;
+ }
+ .softwares{
+    margin-left: 600px;
+ }
+ .my_softwares{
+    margin-left: 200px;
+ }
+ 
+
